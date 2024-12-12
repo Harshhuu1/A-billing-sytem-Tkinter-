@@ -17,7 +17,7 @@ Clone the repository or download the project files:
 
 
 
-git clone https://github.com/Harshhuu1/billing-system-Tkinter.git
+git clone (https://github.com/Harshhuu1/A-billing-sytem-Tkinter-)
 Navigate to the project folder:
 
 
